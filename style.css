@@ -1,0 +1,89 @@
+
+.login-box{
+    max-width: 500px;
+    float: none;
+    margin: 150px;
+}
+.login-left{
+    background: rgba(211, 211, 211 , 0.5);
+    padding: 30px;
+}
+.login-right{
+    background: #fff;
+    padding: 30px;
+}
+body {
+    height: 100vh;
+      width: 100%;
+    background: #0f2027; /* fallback for old browsers */
+    background: linear-gradient(to right,#2c5364, #203a43, #0f2027);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* color: #fff; */
+  }
+  .create-exam-box{
+    background:rgb(255, 255, 255, 0.1);
+    max-width: 500px;
+    float: none;
+    padding:30px;
+    margin-left: 300px;
+    margin-top: 20px;
+    /* filter: blur(2px); */
+    /* -webkit-filter: blur(2px); */
+
+
+  }
+  .create-exam-header,
+  .teacher-register-header,
+  .student-register-header,
+  .welcome-header,
+  .exam-details-header{
+      font-size:40px;
+      font-weight: bold;
+  }
+  .h1{
+
+    font-size: 17px;
+    color: #fff;
+
+  }
+  .form-labels{
+      font-size: 17px;
+      color: #fff;
+  }
+  .submit-button{
+      background-color:#203a43;
+      border-color:#203a43;
+      color:#fff;
+  }
+  .submit-button:hover{
+    background-color:#203a43;
+    border-color:#203a43;
+    color:#fff;
+
+  }
+  .exam-details-box{
+    background:rgb(255, 255, 255, 0.1);
+    max-width: 500px;
+    float: none;
+    padding:30px;
+    margin-left: 300px;
+    margin-top: 20px;
+  }
+  .login-student-box,
+  .login-teacher-box,
+  .register-info-box,
+  .student-details-box,
+  .register-student-box,
+  .upload-student-image-box{
+    background:rgba(255, 255, 255, 0.1);
+    max-width: 500px;
+    float: none;
+    padding:20px;
+    /* margin-left: 300px; */
+    /* margin-top: 20px; */
+
+  }
+  
+  

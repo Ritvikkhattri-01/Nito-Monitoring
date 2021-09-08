@@ -1,0 +1,36 @@
+.teacher-options-button{
+    background-color: #fff;
+    color: #203a43;
+    font-size: 25px;
+    border: 7px solid #203a43;
+    text-decoration: none;
+    border-radius: 3px;
+    font-weight:bold;
+    border-radius:30px;
+}
+.teacher-option-link,.teacher-option-link:hover{
+    text-decoration: none;
+    color:black !important;
+}
+body {
+    height: 100vh;
+      width: 100%;
+    background: #0f2027; /* fallback for old browsers */
+    background: linear-gradient(to right,#2c5364, #203a43, #0f2027);
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* color: #fff; */
+  }
+  .welcome-header{
+      font-size:40px;
+      font-weight: bold;
+  }
+  .buttons-container{
+      margin-top: 100px;
+
+  }
+  .welcome-container{
+      background:rgba(255,255,255,0.2);
+      height:450px;
+  }

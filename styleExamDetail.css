@@ -1,0 +1,39 @@
+body {
+    height: 100vh;
+      width: 100%;
+    background: #0f2027; /* fallback for old browsers */
+    background: linear-gradient(to right,#2c5364, #203a43, #0f2027);
+  }
+    table { 
+        margin: 0 auto; 
+        font-size: large; 
+        border: 1px solid #fff; 
+    } 
+
+   
+    td { 
+        background-color: #fcffe2; 
+        border: 1px solid #fff; 
+    } 
+    th, 
+    td { 
+        font-weight: bold;      
+        padding: 15px; 
+        text-align: center; 
+        
+    } 
+
+    td { 
+        font-weight: normal;
+        border: 1px solid #000; 
+    }   
+th{
+    color:#000;
+    background: #fff;
+    border: 1px solid #000; 
+
+}
+.exam-details-header{
+    font-size: 30px;
+    font-weight: bold;
+}
